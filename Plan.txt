@@ -1,0 +1,7 @@
+decompose client to generalise behaviour
+
+client will now connect to server and wait for commands - client should not send anything to server over socket except initial connection and responses
+
+need to rewrite server code properly - use threads to connect to multiple clients concurrently, use an API and a web UI
+
+use seleniumgrid to scale individual clients on one machine
