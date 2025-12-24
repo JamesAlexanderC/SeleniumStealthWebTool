@@ -5,11 +5,11 @@ from enum import Enum
 app = FastAPI()
 
 """
-this server will act as a node
+this server will act as a Node
 
-each node may contain up to N selenium instances (slots)
+each Node may contain up to N selenium instances (Slots)
 
-this server will act as communication between a client all the slots
+a Controller may connect to M nodes and through them manage M*N Slots
 """
 
 
