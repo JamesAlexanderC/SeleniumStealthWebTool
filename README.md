@@ -1,3 +1,9 @@
 # SeleniumStealthWebTool
 
-This is a personal python-built project that aims to build a stealth browser using the camoufox module, scale it with seleniumgrid, then control the cluster of browsers with a remote or local management console.
+This is a personal python and java built project.
+
+The eventual aim for this project is to provide a framework for automating concurrent browser sessions.
+
+I aim to provide powerful tools for automation at a large scale, but to the ability to individually edit each browser dynamically.
+
+I will be using Camoufox, built in proxy support, captcha bypassing and a few anti-bot functions to make this framework appear more human, even at larger scales.
