@@ -1,3 +1,5 @@
+# Depreciated - the general sentiment of this project is continued in my 'Fixr-bot' repository, tech stack has been changed and approach is different
+
 # SeleniumStealthWebTool
 
 This is a personal python and java built project.
